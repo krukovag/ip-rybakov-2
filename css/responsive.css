@@ -1,0 +1,190 @@
+@media (max-width: 1200px) {
+
+	.quote-buttons span {
+		margin: 0 2px;
+	}
+
+	.flickr-widget ul li {
+		margin-left: 0px;
+		margin-right: 7px;
+	}
+
+	.subscribe-widget form input[type="text"] {
+		margin-bottom: 10px;
+	}
+
+	.history-content p {
+		max-height: 36px;
+		line-height: 20px;
+		overflow: hidden;
+	}
+
+	.portfolio-box { 
+		width: 975px;
+	}
+
+	.portfolio-box.three-col .work-post {
+		width: 295px;
+	}
+
+	.portfolio-box.four-col .work-post {
+		width: 213px;
+	}
+}
+
+@media (max-width: 991px) {
+	.top-line {
+		text-align: center;
+	}
+	.navbar-fone {
+		text-align: center;
+		padding: 10px;
+		margin: 0;
+		font-size:27px;
+	}
+	.navbar-brand {
+		padding: 28px 15px;
+	}
+
+	.navbar-default .navbar-nav > li > a {
+		padding: 27px 0px 30px;
+	}
+
+	ul.social-list {
+		float: none !important;
+		text-align: center;
+		margin-top: 10px;
+	}
+
+	ul.social-list li {
+		float: none !important;
+		display: inline-block;
+	}
+
+	.quote-buttons {
+		text-align: center;
+	}
+
+	.copyright-section {
+		text-align: center;
+	}
+
+	ul.footer-nav {
+		float: none !important;
+		text-align: center;
+		margin-top: 10px;
+	}
+
+	.page-banner {
+		text-align: center;
+	}
+
+	ul.pager-depth {
+		float: none;
+	}
+
+	ul.pager-depth li {
+		float: none;
+		display: inline-block;
+		float: left\0/;
+	}
+
+	.search-area input[type="search"] {
+		background: url('../images/zoom.png') 98% center no-repeat;
+	}
+
+	.portfolio-box { 
+		width: 750px;
+	}
+
+	.portfolio-box.three-col .work-post,
+	.portfolio-box.four-col .work-post {
+		width: 720px;
+	}
+
+	.filter-box {
+		margin: 10px auto !important;
+		text-align: left;
+		float: none;
+	}
+}
+
+@media (max-width: 768px) {
+	.tp-leftarrow.default,
+	.tp-rightarrow.default {
+		display: none!important;
+	}
+
+	.navbar-default .navbar-toggle {
+		margin-top: 22px;
+		outline: none;
+	}
+
+	.navbar-default .navbar-nav > li > a {
+		border: none;
+		padding: 5px 10px;
+		display: block;
+		border: none !important;
+		padding-right: 0;
+	}
+
+	.navbar-default .navbar-nav > li > a:hover {
+		opacity: 0.7;
+	}
+
+	.navbar-default .navbar-nav > li {
+		margin-left: 0;
+		display: block;
+	}
+
+	.navbar-default .navbar-nav > li.drop > a {
+	    padding-right: 10px;
+	    background: none;
+	}
+
+	ul.dropdown {
+		position: relative;
+		visibility: visible;
+		width: 100%;
+		top: inherit;
+		margin-top: 0;
+		background: #fff;
+		padding-left: 20px;
+	}
+
+	ul.dropdown li {
+		border-top: none;
+	}
+
+	ul.dropdown li a {
+		color: #5b656c;
+		background: #fff !important;
+		padding: 4px 0;
+	}
+
+	.history-box img {
+		float: none;
+		width: 100%;
+	}
+
+	.history-content {
+		float: none;
+		width: 100% !important;
+	}
+
+	.history-box span.history-date {
+		right: inherit;
+		left: 15px;
+	}
+
+	.portfolio-box { 
+		width: 100%;
+		margin-left: 0;
+	}
+
+	.portfolio-box.three-col .work-post,
+	.portfolio-box.four-col .work-post {
+		width: 100%;
+		margin: 15px 0;
+	}
+}
