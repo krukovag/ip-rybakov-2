@@ -1,3 +1,6 @@
-.editorconfig
-upload/
-images/
+font-awesome/
+js/*.js
+!js/script.js
+css/*.css
+!css/style.css
+favicon
